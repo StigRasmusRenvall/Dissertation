@@ -1,0 +1,577 @@
+ChiSquared tests for AU Activations and Personality Traits: 
+AU01 and Openness: 
+ChiSquare:15.6563542657 with 92.558604997% confidence 
+
+AU01 and Conscientiousness: 
+ChiSquare:75.395992111 with 99.9999999999% confidence 
+
+AU01 and Extraversion: 
+ChiSquare:57.5130679315 with 99.999999597% confidence 
+
+AU01 and Agreeableness: 
+ChiSquare:81.7739547654 with 100.0% confidence 
+
+AU01 and Neuroticism: 
+ChiSquare:10.5438009078 with 69.172152123% confidence 
+
+AU02 and Openness: 
+ChiSquare:7.05798615054 with 36.8917857099% confidence 
+
+AU02 and Conscientiousness: 
+ChiSquare:81.0265837521 with 100.0% confidence 
+
+AU02 and Extraversion: 
+ChiSquare:68.9067181717 with 99.9999999975% confidence 
+
+AU02 and Agreeableness: 
+ChiSquare:93.4428568335 with 100.0% confidence 
+
+AU02 and Neuroticism: 
+ChiSquare:4.75240597841 with 14.466449106% confidence 
+
+AU04 and Openness: 
+ChiSquare:15.1377668287 with 91.2779393245% confidence 
+
+AU04 and Conscientiousness: 
+ChiSquare:76.9324781221 with 99.9999999999% confidence 
+
+AU04 and Extraversion: 
+ChiSquare:55.2151910849 with 99.9999988918% confidence 
+
+AU04 and Agreeableness: 
+ChiSquare:96.5893052367 with 100.0% confidence 
+
+AU04 and Neuroticism: 
+ChiSquare:4.27370870866 with 10.7508026376% confidence 
+
+AU05 and Openness: 
+ChiSquare:7.95905959037 with 46.1722746223% confidence 
+
+AU05 and Conscientiousness: 
+ChiSquare:90.199362742 with 100.0% confidence 
+
+AU05 and Extraversion: 
+ChiSquare:84.100600257 with 100.0% confidence 
+
+AU05 and Agreeableness: 
+ChiSquare:95.3458187313 with 100.0% confidence 
+
+AU05 and Neuroticism: 
+ChiSquare:20.4766278146 with 98.4811681032% confidence 
+
+AU06 and Openness: 
+ChiSquare:94.0528971936 with 100.0% confidence 
+
+AU06 and Conscientiousness: 
+ChiSquare:99.2173573236 with 100.0% confidence 
+
+AU06 and Extraversion: 
+ChiSquare:291.994873343 with 100.0% confidence 
+
+AU06 and Agreeableness: 
+ChiSquare:341.332905256 with 100.0% confidence 
+
+AU06 and Neuroticism: 
+ChiSquare:98.3338162014 with 100.0% confidence 
+
+AU07 and Openness: 
+ChiSquare:83.7397298654 with 100.0% confidence 
+
+AU07 and Conscientiousness: 
+ChiSquare:86.2026897308 with 100.0% confidence 
+
+AU07 and Extraversion: 
+ChiSquare:227.315224554 with 100.0% confidence 
+
+AU07 and Agreeableness: 
+ChiSquare:231.540834294 with 100.0% confidence 
+
+AU07 and Neuroticism: 
+ChiSquare:72.4957378785 with 99.9999999995% confidence 
+
+AU09 and Openness: 
+ChiSquare:16.7562233214 with 94.73268065% confidence 
+
+AU09 and Conscientiousness: 
+ChiSquare:80.9572089974 with 100.0% confidence 
+
+AU09 and Extraversion: 
+ChiSquare:91.7428189389 with 100.0% confidence 
+
+AU09 and Agreeableness: 
+ChiSquare:105.841926137 with 100.0% confidence 
+
+AU09 and Neuroticism: 
+ChiSquare:14.7201656484 with 90.1085054873% confidence 
+
+AU10 and Openness: 
+ChiSquare:69.5854217539 with 99.9999999982% confidence 
+
+AU10 and Conscientiousness: 
+ChiSquare:92.6121254572 with 100.0% confidence 
+
+AU10 and Extraversion: 
+ChiSquare:227.08187496 with 100.0% confidence 
+
+AU10 and Agreeableness: 
+ChiSquare:253.651922916 with 100.0% confidence 
+
+AU10 and Neuroticism: 
+ChiSquare:41.5098294314 with 99.9995961265% confidence 
+
+AU12 and Openness: 
+ChiSquare:152.928495367 with 100.0% confidence 
+
+AU12 and Conscientiousness: 
+ChiSquare:100.774146118 with 100.0% confidence 
+
+AU12 and Extraversion: 
+ChiSquare:393.8953362 with 100.0% confidence 
+
+AU12 and Agreeableness: 
+ChiSquare:462.753859343 with 100.0% confidence 
+
+AU12 and Neuroticism: 
+ChiSquare:105.818755898 with 100.0% confidence 
+
+AU14 and Openness: 
+ChiSquare:99.7785166183 with 100.0% confidence 
+
+AU14 and Conscientiousness: 
+ChiSquare:97.5625403312 with 100.0% confidence 
+
+AU14 and Extraversion: 
+ChiSquare:215.362567679 with 100.0% confidence 
+
+AU14 and Agreeableness: 
+ChiSquare:292.55963539 with 100.0% confidence 
+
+AU14 and Neuroticism: 
+ChiSquare:84.5821603334 with 100.0% confidence 
+
+AU15 and Openness: 
+ChiSquare:25.1377290271 with 99.7177456015% confidence 
+
+AU15 and Conscientiousness: 
+ChiSquare:84.6555671105 with 100.0% confidence 
+
+AU15 and Extraversion: 
+ChiSquare:86.3724136739 with 100.0% confidence 
+
+AU15 and Agreeableness: 
+ChiSquare:99.1025899993 with 100.0% confidence 
+
+AU15 and Neuroticism: 
+ChiSquare:10.199348025 with 66.5410659837% confidence 
+
+AU17 and Openness: 
+ChiSquare:26.318437018 with 99.8188358224% confidence 
+
+AU17 and Conscientiousness: 
+ChiSquare:78.9284362483 with 100.0% confidence 
+
+AU17 and Extraversion: 
+ChiSquare:94.3437207582 with 100.0% confidence 
+
+AU17 and Agreeableness: 
+ChiSquare:104.74632962 with 100.0% confidence 
+
+AU17 and Neuroticism: 
+ChiSquare:6.9186466632 with 35.4410772971% confidence 
+
+AU20 and Openness: 
+ChiSquare:11.0327810527 with 72.6531344619% confidence 
+
+AU20 and Conscientiousness: 
+ChiSquare:85.9274062737 with 100.0% confidence 
+
+AU20 and Extraversion: 
+ChiSquare:53.5174614191 with 99.9999976685% confidence 
+
+AU20 and Agreeableness: 
+ChiSquare:79.0881089124 with 100.0% confidence 
+
+AU20 and Neuroticism: 
+ChiSquare:5.79606995666 with 23.9857733228% confidence 
+
+AU23 and Openness: 
+ChiSquare:11.7570817336 with 77.2647111575% confidence 
+
+AU23 and Conscientiousness: 
+ChiSquare:79.1753468102 with 100.0% confidence 
+
+AU23 and Extraversion: 
+ChiSquare:66.7837210582 with 99.9999999935% confidence 
+
+AU23 and Agreeableness: 
+ChiSquare:82.8576240442 with 100.0% confidence 
+
+AU23 and Neuroticism: 
+ChiSquare:7.13754461749 with 37.719851398% confidence 
+
+AU25 and Openness: 
+ChiSquare:76.5089224825 with 99.9999999999% confidence 
+
+AU25 and Conscientiousness: 
+ChiSquare:101.778009102 with 100.0% confidence 
+
+AU25 and Extraversion: 
+ChiSquare:232.903714422 with 100.0% confidence 
+
+AU25 and Agreeableness: 
+ChiSquare:201.400645122 with 100.0% confidence 
+
+AU25 and Neuroticism: 
+ChiSquare:13.9866688209 with 87.7199765234% confidence 
+
+AU26 and Openness: 
+ChiSquare:20.4002815204 with 98.4403424257% confidence 
+
+AU26 and Conscientiousness: 
+ChiSquare:84.1154780811 with 100.0% confidence 
+
+AU26 and Extraversion: 
+ChiSquare:81.4535197766 with 100.0% confidence 
+
+AU26 and Agreeableness: 
+ChiSquare:94.0340178608 with 100.0% confidence 
+
+AU26 and Neuroticism: 
+ChiSquare:10.6043017351 with 69.6190422674% confidence 
+
+AU28 and Openness: 
+ChiSquare:36.2828780712 with 99.9964684099% confidence 
+
+AU28 and Conscientiousness: 
+ChiSquare:89.6833297623 with 100.0% confidence 
+
+AU28 and Extraversion: 
+ChiSquare:69.8571774191 with 99.9999999984% confidence 
+
+AU28 and Agreeableness: 
+ChiSquare:98.9039194839 with 100.0% confidence 
+
+AU28 and Neuroticism: 
+ChiSquare:10.060831264 with 65.4416930709% confidence 
+
+AU45 and Openness: 
+ChiSquare:15.6890991466 with 92.6335222751% confidence 
+
+AU45 and Conscientiousness: 
+ChiSquare:114.938761415 with 100.0% confidence 
+
+AU45 and Extraversion: 
+ChiSquare:58.223405212 with 99.9999997055% confidence 
+
+AU45 and Agreeableness: 
+ChiSquare:82.9485939565 with 100.0% confidence 
+
+AU45 and Neuroticism: 
+ChiSquare:7.80330531619 with 44.5916447484% confidence 
+
+
+
+Spearman Ranked tests for AUIntensities and Personality Trait attributions: 
+AU01 and Openness:
+Rho:0.0391954842178 with 74.0367792891% confidence
+
+AU01 and Conscientiousness:
+Rho:0.125253700036 with 99.9699830868% confidence
+
+AU01 and Extraversion:
+Rho:-0.0267055249789 with 55.7448554093% confidence
+
+AU01 and Agreeableness:
+Rho:0.0227122333525 with 48.6267135195% confidence
+
+AU01 and Neuroticism:
+Rho:0.0414805642346 with 76.7144234925% confidence
+
+AU02 and Openness:
+Rho:0.00247660538533 with 5.6761282105% confidence
+
+AU02 and Conscientiousness:
+Rho:0.137228999048 with 99.9926281057% confidence
+
+AU02 and Extraversion:
+Rho:-0.0827127508537 with 98.2780377548% confidence
+
+AU02 and Agreeableness:
+Rho:-0.00209863968232 with 4.81101232814% confidence
+
+AU02 and Neuroticism:
+Rho:0.0268253977776 with 55.9494515165% confidence
+
+AU04 and Openness:
+Rho:-0.0064876506524 with 14.7958992251% confidence
+
+AU04 and Conscientiousness:
+Rho:-0.0291520198855 with 59.8119302802% confidence
+
+AU04 and Extraversion:
+Rho:-0.00184577810524 with 4.23192160187% confidence
+
+AU04 and Agreeableness:
+Rho:-0.0836973669702 with 98.4066667069% confidence
+
+AU04 and Neuroticism:
+Rho:0.0118054265647 with 26.5695377521% confidence
+
+AU05 and Openness:
+Rho:-0.0752966282245 with 96.9824145561% confidence
+
+AU05 and Conscientiousness:
+Rho:0.134287710267 with 99.9894769879% confidence
+
+AU05 and Extraversion:
+Rho:-0.17679950454 with 99.9999699614% confidence
+
+AU05 and Agreeableness:
+Rho:-0.118911868413 with 99.9398121981% confidence
+
+AU05 and Neuroticism:
+Rho:0.157840231939 with 99.9995038026% confidence
+
+AU06 and Openness:
+Rho:0.302145986636 with 100.0% confidence
+
+AU06 and Conscientiousness:
+Rho:0.190020648666 with 99.9999964762% confidence
+
+AU06 and Extraversion:
+Rho:0.54872883234 with 100.0% confidence
+
+AU06 and Agreeableness:
+Rho:0.555958215136 with 100.0% confidence
+
+AU06 and Neuroticism:
+Rho:-0.408882917832 with 100.0% confidence
+
+AU07 and Openness:
+Rho:0.277822332722 with 100.0% confidence
+
+AU07 and Conscientiousness:
+Rho:0.104712792755 with 99.7461227124% confidence
+
+AU07 and Extraversion:
+Rho:0.455155840695 with 100.0% confidence
+
+AU07 and Agreeableness:
+Rho:0.403380109067 with 100.0% confidence
+
+AU07 and Neuroticism:
+Rho:-0.395482324724 with 100.0% confidence
+
+AU09 and Openness:
+Rho:0.0512145860098 with 85.9338130555% confidence
+
+AU09 and Conscientiousness:
+Rho:-0.0114869140322 with 25.8786828597% confidence
+
+AU09 and Extraversion:
+Rho:0.221579551655 with 99.9999999889% confidence
+
+AU09 and Agreeableness:
+Rho:0.176920383106 with 99.9999705235% confidence
+
+AU09 and Neuroticism:
+Rho:-0.165546053593 with 99.9998351804% confidence
+
+AU10 and Openness:
+Rho:0.242220834089 with 99.9999999998% confidence
+
+AU10 and Conscientiousness:
+Rho:0.186223847833 with 99.9999933747% confidence
+
+AU10 and Extraversion:
+Rho:0.468270543092 with 100.0% confidence
+
+AU10 and Agreeableness:
+Rho:0.458863533783 with 100.0% confidence
+
+AU10 and Neuroticism:
+Rho:-0.315990932895 with 100.0% confidence
+
+AU12 and Openness:
+Rho:0.469943809802 with 100.0% confidence
+
+AU12 and Conscientiousness:
+Rho:0.200412667776 with 99.9999994143% confidence
+
+AU12 and Extraversion:
+Rho:0.682150243867 with 100.0% confidence
+
+AU12 and Agreeableness:
+Rho:0.736500446473 with 100.0% confidence
+
+AU12 and Neuroticism:
+Rho:-0.412390400367 with 100.0% confidence
+
+AU14 and Openness:
+Rho:0.356253936096 with 100.0% confidence
+
+AU14 and Conscientiousness:
+Rho:0.173102677234 with 99.9999468051% confidence
+
+AU14 and Extraversion:
+Rho:0.461198334527 with 100.0% confidence
+
+AU14 and Agreeableness:
+Rho:0.546029592213 with 100.0% confidence
+
+AU14 and Neuroticism:
+Rho:-0.346899466827 with 100.0% confidence
+
+AU15 and Openness:
+Rho:-0.316180459826 with 100.0% confidence
+
+AU15 and Conscientiousness:
+Rho:0.00335989022349 with 7.69507601703% confidence
+
+AU15 and Extraversion:
+Rho:-0.375013001607 with 100.0% confidence
+
+AU15 and Agreeableness:
+Rho:-0.332856759924 with 100.0% confidence
+
+AU15 and Neuroticism:
+Rho:0.174458430968 with 99.9999568027% confidence
+
+AU17 and Openness:
+Rho:-0.220091089167 with 99.9999999851% confidence
+
+AU17 and Conscientiousness:
+Rho:0.0541041759258 with 88.0428958383% confidence
+
+AU17 and Extraversion:
+Rho:-0.276778438326 with 100.0% confidence
+
+AU17 and Agreeableness:
+Rho:-0.240819854786 with 99.9999999998% confidence
+
+AU17 and Neuroticism:
+Rho:0.0650448216608 with 93.8786577839% confidence
+
+AU20 and Openness:
+Rho:0.00386150172752 with 8.83950732964% confidence
+
+AU20 and Conscientiousness:
+Rho:0.121361375775 with 99.9538150741% confidence
+
+AU20 and Extraversion:
+Rho:0.0399949555144 with 74.9968081463% confidence
+
+AU20 and Agreeableness:
+Rho:0.0904718568297 with 99.0847758507% confidence
+
+AU20 and Neuroticism:
+Rho:-0.0139946647105 with 31.2574375906% confidence
+
+AU23 and Openness:
+Rho:-0.195112182206 with 99.9999985193% confidence
+
+AU23 and Conscientiousness:
+Rho:-0.00465286590005 with 10.6412049038% confidence
+
+AU23 and Extraversion:
+Rho:-0.126066553214 with 99.9726092237% confidence
+
+AU23 and Agreeableness:
+Rho:-0.185727051617 with 99.999992811% confidence
+
+AU23 and Neuroticism:
+Rho:-0.0363632902344 with 70.4324003511% confidence
+
+AU25 and Openness:
+Rho:0.290486325293 with 100.0% confidence
+
+AU25 and Conscientiousness:
+Rho:0.0914733596368 with 99.1593372687% confidence
+
+AU25 and Extraversion:
+Rho:0.473473489158 with 100.0% confidence
+
+AU25 and Agreeableness:
+Rho:0.437195099854 with 100.0% confidence
+
+AU25 and Neuroticism:
+Rho:-0.197062227626 with 99.9999989442% confidence
+
+AU26 and Openness:
+Rho:0.0136395285482 with 30.5045149878% confidence
+
+AU26 and Conscientiousness:
+Rho:0.0838129310281 with 98.4211964407% confidence
+
+AU26 and Extraversion:
+Rho:0.0890777597612 with 98.97118661% confidence
+
+AU26 and Agreeableness:
+Rho:0.0469014785967 with 82.2698083504% confidence
+
+AU26 and Neuroticism:
+Rho:-0.0484210193177 with 83.6340552422% confidence
+
+AU28 and Openness:
+Rho:-0.138756262377 with 99.9938893771% confidence
+
+AU28 and Conscientiousness:
+Rho:-0.299807623764 with 100.0% confidence
+
+AU28 and Extraversion:
+Rho:-0.0249037682746 with 52.6050262041% confidence
+
+AU28 and Agreeableness:
+Rho:-0.0813725757676 with 98.0883953694% confidence
+
+AU28 and Neuroticism:
+Rho:-0.0554403760458 with 88.9305114029% confidence
+
+
+
+Spearman Ranked tests for HeadPose and Personality Trait attributions:
+X Euler Angle and Openness: 
+Rho:0.34755754178 with 100.0% confidence
+
+X Euler Angle and Conscientiousness: 
+Rho:0.101427707788 with 99.6538563633% confidence
+
+X Euler Angle and Extraversion: 
+Rho:0.188729708626 with 99.9999956261% confidence
+
+X Euler Angle and Agreeableness: 
+Rho:0.242558504906 with 99.9999999999% confidence
+
+X Euler Angle and Neuroticism: 
+Rho:-0.00367927330866 with 8.42395050922% confidence
+
+Y Euler Angle and Openness: 
+Rho:0.0924503783216 with 99.2268008077% confidence
+
+Y Euler Angle and Conscientiousness: 
+Rho:-0.0312267609213 with 63.0790193482% confidence
+
+Y Euler Angle and Extraversion: 
+Rho:0.0799908545322 with 97.8740397705% confidence
+
+Y Euler Angle and Agreeableness: 
+Rho:0.108734155545 with 99.8283153422% confidence
+
+Y Euler Angle and Neuroticism: 
+Rho:-0.0143884012039 with 32.0885917929% confidence
+
+Z Euler Angle and Openness: 
+Rho:0.00734878419115 with 16.7325304672% confidence
+
+Z Euler Angle and Conscientiousness: 
+Rho:-0.0215170862872 with 46.386261451% confidence
+
+Z Euler Angle and Extraversion: 
+Rho:0.0581803684659 with 90.5877396881% confidence
+
+Z Euler Angle and Agreeableness: 
+Rho:0.00350319113488 with 8.02219114744% confidence
+
+Z Euler Angle and Neuroticism: 
+Rho:-0.028439008428 with 58.6503504957% confidence
+
